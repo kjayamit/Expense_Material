@@ -2,67 +2,166 @@
 <items version="2" >
 
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_97f6871f740c7079f6c2c717983086f55ba134af.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_49b3dcbdfd7dd1e4216f3076fe9543e83e6fc743.jar" />
     </item>
     <item
-        jar="/Users/jaya/tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_23504f8eeedfa608badffcf4cba351c68f1db214.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_01b71d6cf8966033f509e3dc842cb930d261ae3d.jar" />
     </item>
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_99bc4000662588ba0c4a364d24bad53ab533d849.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_e0d38442689a6f0c25da4a50c990ace774328a75.jar" />
     </item>
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_742e1ed6f478698ddee1c99f25bac183eeb9f447.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_7eb4c0136ca8c424be8e418c29dace02a15d175d.jar" />
     </item>
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_d194649ecfc9257e6f5c7dd2e63f585a930286ae.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5069827d6e21daaa9d97805095f60ee5e08f1c49.jar" />
     </item>
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_a34ecbe6f81614c9e837cb8896e25925acde22f6.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e66d14cc578ee8be604ef5306a4897436fff303d.jar" />
     </item>
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_25c960204784d9bc93c8441c4594297019c96b01.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_fd03e1c3de8496d08267159f8365c807706a84b8.jar" />
     </item>
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_cb11fa72c3c2baca9c50831bfbbe9b2d080d39a1.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6be31ae76f6806b05ef0e561b550d7a459d3c732.jar" />
     </item>
     <item
-        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/Users/jaya/tools/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="false"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_bd47ea1ffe000ec1e0cba062c8782f7ed9da4284.jar" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_f5656b09359b6be6f8c4a12cd0b0a0c36a23e158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5a375b8aae0707c264eea8bb15549e09a9fb60c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_99e4b7289734264c1e74dd607c1d38643a5b1a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5560f61732dc8b615ffbfb1111e4dd71a899647b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_724320d230bfdf6209f23f907f606e58007f771c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_a00896ec62777685ef980ff13b541d983d3b4e15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_83dba1a01980c94e02b7e648e42931b49d4f447e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7b506e1a26fd8b03a733049690e34980093b4352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_0b848cc01b3f151bb1a5bd53cafd1605b87969d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaya/projects/android/Expense Material/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jaya/projects/android/Expense Material/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9cd70baf6bf0387e381ec2a69e3042e2776ba44c.jar" />
     </item>
 
 </items>

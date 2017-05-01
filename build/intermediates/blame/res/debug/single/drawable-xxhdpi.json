@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jaya/projects/android/Expense Material/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite_black_24dp.png",
+        "source": "/Users/jaya/projects/android/Expense Material/src/main/res/drawable-xxhdpi/ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "/Users/jaya/projects/android/Expense Material/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_black_24dp.png",
+        "source": "/Users/jaya/projects/android/Expense Material/src/main/res/drawable-xxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/jaya/projects/android/Expense Material/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bookmark_border_black_24dp.png",
+        "source": "/Users/jaya/projects/android/Expense Material/src/main/res/drawable-xxhdpi/ic_bookmark_border_black_24dp.png"
+    }
+]
